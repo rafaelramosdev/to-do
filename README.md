@@ -51,7 +51,7 @@ $ yarn
 $ yarn dev
 ```
 
-O website estará disponível no seu navegador pelo endereço [`http://localhost:3000`](http://localhost:3000).
+O website estará disponível no seu navegador pelo endereço [`http://localhost:8080`](http://localhost:8080).
 
 ## 📄 Licença
 
