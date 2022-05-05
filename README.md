@@ -37,7 +37,7 @@ Este é um projeto desenvolvido como prática das aulas do Chapter I da trilha R
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/rafaelramosdev/to-do.git
+$ git clone https://github.com/rafaelramosdev/to-do
 $ cd to-do
 ```
 
